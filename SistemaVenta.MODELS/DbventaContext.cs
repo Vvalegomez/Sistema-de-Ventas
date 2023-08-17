@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SistemaVenta.MODELS;
 
+
 public partial class DbventaContext : DbContext
 {
     public DbventaContext()
